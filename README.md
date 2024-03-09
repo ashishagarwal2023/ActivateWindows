@@ -10,11 +10,11 @@ To use it, first install the packages from requirements `pip3 install -r require
 
 I made it to 2 modes. When you run main.py, you recieve like:
 
-````bash
+```bash
 Usage: main.py [OPTIONS] COMMAND [ARGS]...
 Try 'main.py --help' for help.
-Error - Missing command.```
-````
+Error - Missing command.
+```
 
 Run with `--help` and you will see 2 commands: `automatic` and `manual`.
 
